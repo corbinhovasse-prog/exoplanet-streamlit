@@ -42,22 +42,22 @@ with a:
     with st.container(border=True):
         st.markdown("**📄 Bio**")
         st.caption("Who I am, my tools, and my visualization philosophy.")
-        st.page_link("pages/1_📄_Bio.py", label="Open Bio")
+        st.page_link("pages/1_Bio.py", label="Open Bio")
 with b:
     with st.container(border=True):
         st.markdown("**📊 EDA Gallery**")
         st.caption("Four chart types, each with a guide and observations.")
-        st.page_link("pages/2_📊_EDA_Gallery.py", label="Open Gallery")
+        st.page_link("pages/2_EDA_Gallery.py", label="Open Gallery")
 with c:
     with st.container(border=True):
         st.markdown("**📈 Dashboard**")
         st.caption("Filter the catalog and watch the KPIs and charts update.")
-        st.page_link("pages/3_📈_Dashboard.py", label="Open Dashboard")
+        st.page_link("pages/3_Dashboard.py", label="Open Dashboard")
 with d:
     with st.container(border=True):
         st.markdown("**🧭 Future Work**")
         st.caption("Next steps and what changed from my prototype.")
-        st.page_link("pages/4_🧭_Future_Work.py", label="Open Future Work")
+        st.page_link("pages/4_Future_Work.py", label="Open Future Work")
 
 st.write("")
 source_caption()

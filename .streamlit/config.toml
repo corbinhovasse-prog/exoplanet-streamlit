@@ -1,0 +1,7 @@
+[theme]
+# Dark "deep space" theme with high-contrast text (contrast ratio well above WCAG AA)
+base = "dark"
+primaryColor = "#56B4E9"
+backgroundColor = "#0E1424"
+secondaryBackgroundColor = "#1A2238"
+textColor = "#E6EAF2"
