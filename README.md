@@ -2,7 +2,7 @@
 
 A multipage Streamlit app that is both my professional portfolio and a mini analytics product. It explores NASA's catalog of 6,473 confirmed exoplanets to show how, when, and by which methods planets were found, and how the way we search shapes what we find.
 
-**Live app:** _add your Streamlit Cloud URL here_
+**Live app:** _https://exoplanet-ch.streamlit.app/_
 
 ## Author
 
@@ -60,7 +60,7 @@ streamlit_app/
 │  ├─ 3_Dashboard.py
 │  └─ 4_Future_Work.py
 ├─ data/exoplanets.csv
-├─ assets/banner.png        # Bio image: a one-time matplotlib plot of the dataset (period vs. radius)
+├─ assets/sizing_up_exoplanets.jpg   # Bio image: NASA/JPL PIA15258 (science.nasa.gov)
 ├─ .streamlit/config.toml   # Dark theme
 ├─ requirements.txt
 └─ README.md
